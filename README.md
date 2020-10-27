@@ -5,7 +5,7 @@ A dynamic and elegant Todo app in React.
 
 # Purpose:
 
- * I build this simple app to sucessfully practice my skills in react.
+ * I built this simple app to sucessfully practice my skills in react.
 
 # Technologies Used:
     
